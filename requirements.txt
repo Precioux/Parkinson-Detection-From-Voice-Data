@@ -1,0 +1,7 @@
+
+scikit-learn==1.2.1
+seaborn
+dtreeviz
+numpy
+pandas
+matplotlib
